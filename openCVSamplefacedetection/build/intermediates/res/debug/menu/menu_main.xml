@@ -1,0 +1,11 @@
+<menu xmlns:android="http://schemas.android.com/apk/res/android"
+    xmlns:app="http://schemas.android.com/apk/res-auto"
+    xmlns:tools="http://schemas.android.com/tools"
+    tools:context="zihsiangsyu.project_18641_unit2.ImagePickerActivity">
+    <item
+        android:id="@+id/action_settings"
+        android:title="test"
+        android:orderInCategory="100"
+        android:showAsAction="never" />
+</menu>
+<!-- From: file:/Users/kuoxin/StudyStudy/CMUStudy/18645How_to_write_fast_code/FinalProj645/OpenCV-android-sdk/face-detection/openCVSamplefacedetection/src/main/res/menu/menu_main.xml -->

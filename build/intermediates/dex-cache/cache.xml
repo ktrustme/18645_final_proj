@@ -1,0 +1,12 @@
+<?xml version="1.0" encoding="utf-8"?>
+<items version="2" >
+
+    <item
+        jar="/Users/kuoxin/StudyStudy/CMUStudy/18645How_to_write_fast_code/FinalProj645/OpenCV-android-sdk/face-detection/openCVSamplefacedetection/build/intermediates/exploded-aar/face-detection/openCVLibrary2411/unspecified/classes.jar"
+        jumboMode="false"
+        revision="21.1.2"
+        sha1="46acad45239e56a2abf34001d17be90e65bc18ef">
+        <dex dex="/Users/kuoxin/StudyStudy/CMUStudy/18645How_to_write_fast_code/FinalProj645/OpenCV-android-sdk/face-detection/openCVSamplefacedetection/build/intermediates/pre-dexed/debug/classes-0f137823d88d7185058046adbf18eaf51ac3b274.jar" />
+    </item>
+
+</items>
